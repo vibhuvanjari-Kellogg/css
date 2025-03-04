@@ -1,0 +1,21 @@
+body{
+  background-color: rgb(19, 234, 195);
+}
+
+p{
+  color: red;
+  font-size: 30px;
+}
+
+p.smaller{
+  color: yellow;
+  font-size: 20px;
+}
+
+.smaller{
+  font-size: 20px;
+}
+
+h1.header{
+  font-size: xx-large;
+}
